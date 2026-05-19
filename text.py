@@ -13,7 +13,7 @@ class myapp:
         
     def hello(self):
        
-        print (self.txt.get("1.00","end"))
+        print (self.txt.get("1.0","end-1c"))
 
 
 
